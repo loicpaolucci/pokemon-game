@@ -1,0 +1,42 @@
+.body{
+    
+    font-family: 'Pacifico', cursive;
+}
+
+.title{
+
+text-align: center;
+color: rgb(56, 58, 201);
+font-family: 'Pacifico', cursive;
+font-size: 100px;
+}
+
+.title2{
+
+    text-align: center;
+    color: rgb(32, 10, 231);
+    font-family: 'Pacifico', cursive;
+    font-size: 100px;
+    }
+
+
+
+.tit{
+
+    text-align: center;
+    color: rgb(220, 50, 20);
+}
+
+.jumbotron{
+
+    background-image: url(https://i.skyrock.net/5689/88725689/pics/3173750183_1_11_5XE1YePU.gif);
+    height: 120vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  
+  }
+
+
+
