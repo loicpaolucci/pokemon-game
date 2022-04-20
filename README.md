@@ -6,6 +6,10 @@ Jeux de memoire Pokemon !
 
 Grace a un petit tuto sur youtube j'ai reussi a faire se petit jeu sympa ! 
 
-Testez-le !
+  Testez-le :
 
-http://127.0.0.1:5501/index.html
+- Téléchargez le en zip !
+- Décompréssez le ! 
+- Ouvrir la page index.html 
+
+     AMUSEZ VOUS BIEN !
